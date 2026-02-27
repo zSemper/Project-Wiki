@@ -1,0 +1,10 @@
+{
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/prodigy-tech-preheated",
+    "promos": {
+        "1.21.1-latest": "2.0.0-1.21.1",
+        "1.21.1-recommended": "2.0.0-1.21.1"
+    },
+    "1.21.1": {
+        "2.0.0-1.21.1": "Initial Prodigy Tech v2.0 Release: "
+    }
+}
